@@ -105,4 +105,3 @@ console.log(idInvalidCardCompanies(batch));
 
 
 
-
